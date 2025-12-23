@@ -30,10 +30,10 @@ This repository provides a complete computational pipeline for predicting antimi
 - **Moricin-specific optimizations** based on structural biology
 
 ### 🎯 Key Applications
-- 🐟 Aquaculture disease management
-- 🧪 Novel antimicrobial peptide discovery
-- 🔬 Structure-activity relationship studies
-- 💊 Lead compound optimization
+- Aquaculture disease management
+- Novel antimicrobial peptide discovery
+- Structure-activity relationship studies
+- Lead compound optimization
 
 ---
 
@@ -41,12 +41,12 @@ This repository provides a complete computational pipeline for predicting antimi
 
 | Feature | Description |
 |---------|-------------|
-| 🧬 **Moricin-Specific** | N-terminal truncation preserves active center based on published structures |
-| 🤖 **State-of-the-Art** | ProtT5-XL embeddings + ensemble deep learning |
-| 🦠 **Multi-Pathogen** | Predicts against *S. aureus*, *E. coli*, *P. aeruginosa* |
-| 📊 **Auto Log-Transform** | Automatically detects and converts predictions to μg/mL |
-| 🚀 **End-to-End** | From FASTA sequences to MIC predictions in one workflow |
-| 📈 **High Accuracy** | Validated predictions: 1.8-6 μg/mL range for novel moricins |
+|  **Moricin-Specific** | N-terminal truncation preserves active center based on published structures |
+|  **State-of-the-Art** | ProtT5-XL embeddings + ensemble deep learning |
+|  **Multi-Pathogen** | Predicts against *S. aureus*, *E. coli*, *P. aeruginosa* |
+|  **Auto Log-Transform** | Automatically detects and converts predictions to μg/mL |
+|  **End-to-End** | From FASTA sequences to MIC predictions in one workflow |
+|  **High Accuracy** | Validated predictions: 1.8-6 μg/mL range for novel moricins |
 
 ---
 
@@ -497,3 +497,4 @@ If you find this useful, please ⭐ star the repository!
 **Made with ❤️ for antimicrobial peptide research**
 
 *Last updated: December 2024*
+
