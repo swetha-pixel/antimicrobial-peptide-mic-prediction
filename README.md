@@ -166,7 +166,7 @@ conda create -n Antimicrobial Peptide python=3.8
 conda activate Antimicrobial Peptide
 
 # OR using venv
-python -m venv moricin_env
+python -m venv Antimicrobial Peptide_env
 source Antimicrobial Peptide_env/bin/activate  # Linux/Mac
 # Antimicrobial Peptide_env\Scripts\activate  # Windows
 ```
@@ -463,6 +463,7 @@ If you find this useful, please ⭐ star the repository!
 **Made with ❤️ for antimicrobial peptide research**
 
 *Last updated: December 2024*
+
 
 
 
