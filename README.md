@@ -6,7 +6,7 @@
 
 Deep learning pipeline for predicting Minimum Inhibitory Concentrations (MIC) of **moricin** antimicrobial peptides against pathogenic bacteria. Optimized for aquaculture applications.
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Pipeline Architecture](#pipeline-architecture)
@@ -20,7 +20,7 @@ Deep learning pipeline for predicting Minimum Inhibitory Concentrations (MIC) of
 
 ---
 
-## 🔬 Overview
+##  Overview
 
 This repository provides a complete computational pipeline for predicting antimicrobial activity of **moricin peptides** derived from different species of silk-worms.The pipeline combines:
 
@@ -29,7 +29,7 @@ This repository provides a complete computational pipeline for predicting antimi
 - **Ensemble deep learning models** (CNN, BiLSTM, Multi-Branch)
 - **Antimicrobial Peptide-specific optimizations** based on structural biology
 
-### 🎯 Key Applications
+###  Key Applications
 - Aquaculture disease management
 - Novel antimicrobial peptide discovery
 - Structure-activity relationship studies
@@ -409,8 +409,8 @@ We thank the authors for making their code publicly available under an open-sour
 ### Reporting Issues
 
 Found a bug or have a feature request?
-- 🐛 [Open an issue](https://github.com/swetha-pixel/moricin-mic-prediction/issues)
-- 💬 [Start a discussion](https://github.com/swetha-pixel/moricin-mic-prediction/discussions)
+-  [Open an issue](https://github.com/swetha-pixel/moricin-mic-prediction/issues)
+-  [Start a discussion](https://github.com/swetha-pixel/moricin-mic-prediction/discussions)
 
 ---
 
@@ -463,6 +463,7 @@ If you find this useful, please ⭐ star the repository!
 **Made with ❤️ for antimicrobial peptide research**
 
 *Last updated: December 2024*
+
 
 
 
