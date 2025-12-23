@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large / generated)
+*.npy
+*.npz
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Model directories
+models/
+model/
+checkpoints/
+
+# Embeddings / features
+embeddings/
+features/
+
+# Logs and temp
+*.log
+tmp/
+temp/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
