@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-Deep learning pipeline for predicting Minimum Inhibitory Concentrations (MIC) of **moricin** antimicrobial peptides against pathogenic bacteria. Optimized for aquaculture applications.
+Deep learning pipeline for predicting Minimum Inhibitory Concentrations (MIC) of **antimicrobial peptides** against pathogenic bacteria. Optimized for aquaculture applications.
 
 ##  Table of Contents
 - [Overview](#overview)
@@ -22,7 +22,7 @@ Deep learning pipeline for predicting Minimum Inhibitory Concentrations (MIC) of
 
 ##  Overview
 
-This repository provides a complete computational pipeline for predicting antimicrobial activity of **moricin peptides** derived from different species of silk-worms.The pipeline combines:
+This repository provides a complete computational pipeline for predicting antimicrobial activity of **Antimicrobial peptides** derived from different species of silk-worms.The pipeline combines:
 
 - **ProtT5-XL embeddings** for peptide sequence representation
 - **Bacterial genomic features** for strain-specific prediction
@@ -155,8 +155,8 @@ This repository provides a complete computational pipeline for predicting antimi
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/swetha-pixel/moricin-mic-prediction.git
-cd moricin-mic-prediction
+git clone https://github.com/swetha-pixel/antimicrobial-peptide-mic-prediction.git
+cd antimicrobial-peptide-mic-prediction
 ```
 
 ### Step 2: Create Environment
@@ -371,10 +371,10 @@ Please cite **both** the original esAMPMIC work and this adaptation:
 ```bibtex
 @software{SwethaDiyyala2024antimicrobialpeptide,
   author = {Swetha Diyyala},
-  title = {Moricin Antimicrobial Peptide MIC Prediction Pipeline},
+  title = {Antimicrobial Peptide MIC Prediction Pipeline},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/swetha-pixel/moricin-mic-prediction},
+  url = {https://github.com/swetha-pixel/antimicrobial-peptide-mic-prediction},
   doi = {10.5281/zenodo.XXXXXXX}
 }
 ```
@@ -409,8 +409,8 @@ We thank the authors for making their code publicly available under an open-sour
 ### Reporting Issues
 
 Found a bug or have a feature request?
--  [Open an issue](https://github.com/swetha-pixel/moricin-mic-prediction/issues)
--  [Start a discussion](https://github.com/swetha-pixel/moricin-mic-prediction/discussions)
+-  [Open an issue](https://github.com/swetha-pixel/antimicrobial-peptide-mic-prediction/issues)
+-  [Start a discussion](https://github.com/swetha-pixel/antimicrobial-peptide-mic-prediction/discussions)
 
 ---
 
@@ -456,13 +456,14 @@ See [docs/troubleshooting.md](docs/troubleshooting.md) for more.
 
 If you find this useful, please ⭐ star the repository!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/moricin-mic-prediction&type=Date)](https://star-history.com/swetha-pixel/moricin-mic-prediction&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=swetha-pixel/antimicrobial-peptide-mic-prediction&type=Date)](https://star-history.com/swetha-pixel/antimicrobial-peptide-mic-prediction&Date)
 
 ---
 
 **Made with ❤️ for antimicrobial peptide research**
 
 *Last updated: December 2024*
+
 
 
 
