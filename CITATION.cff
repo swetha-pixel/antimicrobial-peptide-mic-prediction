@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this computational pipeline in your research, please cite it as below."
+
+title: "Antimicrobial Peptide MIC Prediction Pipeline"
+type: software
+
+authors:
+  - given-names: Swetha
+    family-names: Diyyala
+
+repository-code: "https://github.com/swetha-pixel/antimicrobial-peptide-mic-prediction"
+
+abstract: >
+  A Python-based computational pipeline for predicting minimum inhibitory
+  concentrations (MIC) of antimicrobial peptides using deep learning models
+  and sequence embeddings. This pipeline is adapted for antimicrobial peptide
+  screening and prioritization in research applications.
+
+keywords:
+  - antimicrobial peptides
+  - MIC prediction
+  - deep learning
+  - bioinformatics
+  - computational biology
+
+license: MIT
