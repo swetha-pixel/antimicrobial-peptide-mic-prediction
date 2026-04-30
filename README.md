@@ -402,8 +402,7 @@ We thank the authors for making their code publicly available under an open-sour
 
 ##  Contact & Support
 
-- **Author**: [D Swetha]
-- **Institution**: [Your Institution]
+- **Author**: D Swetha
 - **Email**: swethaisha1998@gmail.com
 
 ### Reporting Issues
